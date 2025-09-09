@@ -1,0 +1,1 @@
+Notas de prueba. Este repo se usa para validar Git LFS.
